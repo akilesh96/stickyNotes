@@ -1,1 +1,9 @@
+I am a highly skilled professional with extensive knowledge in Machine Learning, Deep Learning, and Natural Language Processing (NLP). My expertise lies in applying these techniques to real-world problems, primarily utilizing the Python programming language. Additionally, I have a strong foundation in various other programming languages, including C, C++, Java, HTML, CSS, JavaScript, and Shell scripting.
 
+In addition to my programming skills, I possess hands-on experience in web scraping, using tools such as Selenium, and working with technologies like Redis or message queuing, MongoDB, SQL, and OpenShift. When developing ML/DL models, I have proficiency in wrapping them with Flask, FastAPI, or Streamlit frameworks and containerizing them using Docker.
+
+Furthermore, I have a deep understanding of both Windows and Linux operating systems, enabling me to effectively work in diverse environments. My comprehensive skill set, encompassing machine learning, programming, web development, containerization, and operating systems, equips me to tackle complex projects and deliver innovative solutions.
+
+With a passion for continuous learning and a drive for excellence, I am committed to staying updated with the latest advancements in the field of artificial intelligence and data science. My strong analytical and problem-solving abilities, combined with my adaptability and collaborative nature, make me a valuable asset in any project or team.
+
+Overall, I bring a solid foundation in machine learning and a versatile skill set that spans multiple programming languages, web technologies, data storage systems, and deployment frameworks. My goal is to leverage my expertise to contribute to cutting-edge projects and drive meaningful innovation in the field of artificial intelligence.
